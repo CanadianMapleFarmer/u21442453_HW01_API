@@ -11,8 +11,8 @@ using u21442453_HW01_API.Models;
 namespace u21442453_HW01_API.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20230324191016_inital")]
-    partial class inital
+    [Migration("20230325000628_initial")]
+    partial class initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
